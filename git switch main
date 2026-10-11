@@ -1,0 +1,20 @@
+*   [33m0baeef0[m[33m ([m[1;31morigin/main[m[33m)[m Merge pull request #5 from sahanuok/Thisaru2001-patch-1
+[31m|[m[32m\[m  
+[31m|[m * [33m7a680f0[m fix isssues
+[31m|[m[31m/[m  
+*   [33mf4aa841[m Merge pull request #3 from sahanuok/feature/header-footer
+[33m|[m[34m\[m  
+[33m|[m *   [33m76d87db[m Merge main branch
+[33m|[m [35m|[m[36m\[m  
+[33m|[m * [36m|[m [33m63e384b[m Update with my actual header and footer implementation
+[33m|[m  [36m/[m  
+* [36m|[m   [33mf3ef041[m Merge pull request #2 from sahanuok/feature/html-content
+[36m|[m[1;32m\[m [36m\[m  
+[36m|[m [1;32m|[m[36m/[m  
+[36m|[m[36m/[m[1;32m|[m   
+[36m|[m * [33mdc049b7[m[33m ([m[1;31morigin/feature/html-content[m[33m)[m Add HTML content for member 1
+[36m|[m[36m/[m  
+* [33m2743e25[m Add resource files
+ [1;32m\[m 
+  * [33m9651f88[m Initial commit
+* [33m10cbfac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mfeature/html-content[m[33m)[m First commit
